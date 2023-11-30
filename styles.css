@@ -127,6 +127,7 @@ p {
     
 
  }
+}
 
 
  @media screen and (max-width:500px) {
@@ -139,4 +140,4 @@ p {
         position: fixed;
         left: 60%;
     }
-}
+ }
