@@ -160,7 +160,7 @@ p {
     height: 27px;
     font-size: 18px;
     letter-spacing: 1px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 
  }
 
@@ -182,6 +182,6 @@ h1 {
     width: auto;
 }
 .learn {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 }
