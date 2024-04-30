@@ -1,3 +1,25 @@
+[pt-BR]
+<br>
+<br>
+<h1 align="center">
+  Wide coverage</h1>
+<br>
+<br>
+<h2 align="center"> Esse projeto aprendemos no curso do <a href="https://rodolfomori.com.br/devclub">DevClub</a>
+<br>
+<br>
+Foram utilizados as seguintes tecnologias:
+<br>
+  <br>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="59px"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt ="css-logo" width="50px" /> 
+<br>
+<br>
+Projeto resposivo para diversos dispositivos.</h2>
+
+
+<br>
+<br>
+[en-US]
 <h1 align="center">
   Wide coverage</h1>
 <br>
@@ -23,3 +45,5 @@ Responsive design for multiple screens.</h2>
 <br>
 <br>
 <img src="https://github.com/lbastoss/Projeto-figma-Widecoverage-/blob/main/img/mobile.png" alt="projeto-mobile" width="200px"/> 
+
+
