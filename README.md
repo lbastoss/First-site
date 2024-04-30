@@ -45,5 +45,8 @@ Responsive design for multiple screens.</h2>
 <br>
 <br>
 <img src="https://github.com/lbastoss/Projeto-figma-Widecoverage-/blob/main/img/mobile.png" alt="projeto-mobile" width="200px"/> 
+<br>
+<br>
+<p>Deploy: <a href="https://lbastoss.github.io/Project-Widecoverage/">project-widecoverage</a></p>
 
 
